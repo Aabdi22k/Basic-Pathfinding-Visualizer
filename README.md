@@ -36,12 +36,13 @@ Basic Basic Visualizer is a pathfinding visualization tool built using Python an
 3. Run the application:
     python main.py
 
-Usage
-Left Click: Set start point, end point, or add a barrier.
-Right Click: Remove a barrier or reset the start/end points.
-Keyboard Shortcuts:
-Press A to run A* Search
-Press D to run Dijkstra's Algorithm
-Press G to run Greedy Best-First Search
-Press SPACE to run DFS
-Press B to run BFS
+## Usage
+
+- Left Click: Set start point, end point, or add a barrier.
+- Right Click: Remove a barrier or reset the start/end points.
+- Keyboard Shortcuts:
+  - Press A to run A* Search
+  - Press D to run Dijkstra's Algorithm
+  - Press G to run Greedy Best-First Search
+  - Press SPACE to run DFS
+  - Press B to run BFS
